@@ -12,9 +12,9 @@ if (DEBUGMODE) {
     error_reporting(E_ALL);
 }
 
-use Amenadiel\JpGraph\Graph;
-use Amenadiel\JpGraph\Plot;
-use Amenadiel\JpGraph\Text;
+use naas\JpGraph\Graph;
+use naas\JpGraph\Plot;
+use naas\JpGraph\Text;
 
 $datay = [12, 26, 9, 17, 31];
 

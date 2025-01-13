@@ -4,11 +4,11 @@
  * JPGraph v4.0.3
  */
 
-namespace Amenadiel\JpGraph\Plot;
+namespace naas\JpGraph\Plot;
 
-use Amenadiel\JpGraph\Graph;
-use Amenadiel\JpGraph\Text;
-use Amenadiel\JpGraph\Util;
+use naas\JpGraph\Graph;
+use naas\JpGraph\Text;
+use naas\JpGraph\Util;
 
 class GanttVLine extends GanttPlotObject
 {

@@ -4,13 +4,13 @@
  * JPGraph v4.0.3
  */
 
-namespace Amenadiel\JpGraph\Graph;
+namespace naas\JpGraph\Graph;
 
 require_once __DIR__ . '/../config.inc.php';
 
-use Amenadiel\JpGraph\Image;
-use Amenadiel\JpGraph\Plot;
-use Amenadiel\JpGraph\Text;
+use naas\JpGraph\Image;
+use naas\JpGraph\Plot;
+use naas\JpGraph\Text;
 
 /**
  * @class PieGraph

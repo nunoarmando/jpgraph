@@ -4,12 +4,12 @@
  * JPGraph v4.0.3
  */
 
-namespace Amenadiel\JpGraph\Plot;
+namespace naas\JpGraph\Plot;
 
-use Amenadiel\JpGraph\Graph;
-use Amenadiel\JpGraph\Image;
-use Amenadiel\JpGraph\Text;
-use Amenadiel\JpGraph\Util;
+use naas\JpGraph\Graph;
+use naas\JpGraph\Image;
+use naas\JpGraph\Text;
+use naas\JpGraph\Util;
 
 define('WINDROSE_TYPE4', 1);
 define('WINDROSE_TYPE8', 2);

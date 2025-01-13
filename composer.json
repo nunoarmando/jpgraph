@@ -1,5 +1,5 @@
 {
-    "name": "amenadiel/jpgraph",
+    "name": "naas/jpgraph",
     "type": "library",
     "description": "Composer Friendly, full refactor of JpGraph, library to make graphs and charts",
     "keywords": [
@@ -37,21 +37,21 @@
     },
     "autoload": {
         "psr-4": {
-            "Amenadiel\\JpGraph\\": "src/",
-            "Amenadiel\\JpGraph\\Graph\\": "src/graph",
-            "Amenadiel\\JpGraph\\Graph\\Scale\\": "src/graph/scale",
-            "Amenadiel\\JpGraph\\Graph\\Tick\\": "src/graph/tick",
-            "Amenadiel\\JpGraph\\Graph\\Axis\\": "src/graph/axis",
-            "Amenadiel\\JpGraph\\Image\\": "src/image",
-            "Amenadiel\\JpGraph\\Plot\\": "src/plot",
-            "Amenadiel\\JpGraph\\Text\\": "src/text",
-            "Amenadiel\\JpGraph\\Themes\\": "src/themes",
-            "Amenadiel\\JpGraph\\Util\\": "src/util"
+            "naas\\JpGraph\\": "src/",
+            "naas\\JpGraph\\Graph\\": "src/graph",
+            "naas\\JpGraph\\Graph\\Scale\\": "src/graph/scale",
+            "naas\\JpGraph\\Graph\\Tick\\": "src/graph/tick",
+            "naas\\JpGraph\\Graph\\Axis\\": "src/graph/axis",
+            "naas\\JpGraph\\Image\\": "src/image",
+            "naas\\JpGraph\\Plot\\": "src/plot",
+            "naas\\JpGraph\\Text\\": "src/text",
+            "naas\\JpGraph\\Themes\\": "src/themes",
+            "naas\\JpGraph\\Util\\": "src/util"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Amenadiel\\JpGraph\\UnitTest\\": "tests"
+            "naas\\JpGraph\\UnitTest\\": "tests"
         }
     },
     "scripts": {

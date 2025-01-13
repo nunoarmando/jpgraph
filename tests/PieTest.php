@@ -12,7 +12,7 @@
  */
 class PieTest extends \Codeception\Test\Unit
 {
-    use Amenadiel\JpGraph\UnitTest\UnitTestTrait;
+    use naas\JpGraph\UnitTest\UnitTestTrait;
 
     public static $fixTures = [];
 

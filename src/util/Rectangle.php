@@ -4,7 +4,7 @@
  * JPGraph v4.0.3
  */
 
-namespace Amenadiel\JpGraph\Util;
+namespace naas\JpGraph\Util;
 
 // Utility class to hold coordinates for a rectangle
 class Rectangle

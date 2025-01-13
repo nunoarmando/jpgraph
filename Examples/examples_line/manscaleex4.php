@@ -5,8 +5,8 @@
  */
 
 require_once __DIR__ . '/../../src/config.inc.php';
-use Amenadiel\JpGraph\Graph;
-use Amenadiel\JpGraph\Plot;
+use naas\JpGraph\Graph;
+use naas\JpGraph\Plot;
 
 $ydata = [12, 17, 22, 19, 5, 15];
 

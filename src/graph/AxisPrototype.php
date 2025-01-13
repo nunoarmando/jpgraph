@@ -4,10 +4,10 @@
  * JPGraph v4.0.3
  */
 
-namespace Amenadiel\JpGraph\Graph;
+namespace naas\JpGraph\Graph;
 
-use Amenadiel\JpGraph\Text;
-use Amenadiel\JpGraph\Util;
+use naas\JpGraph\Text;
+use naas\JpGraph\Util;
 
 /**
  * @class Axis

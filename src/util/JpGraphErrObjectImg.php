@@ -4,10 +4,10 @@
  * JPGraph v4.0.3
  */
 
-namespace Amenadiel\JpGraph\Util;
+namespace naas\JpGraph\Util;
 
-use Amenadiel\JpGraph\Image;
-use Amenadiel\JpGraph\Text;
+use naas\JpGraph\Image;
+use naas\JpGraph\Text;
 
 /**
  * An image based error handler.

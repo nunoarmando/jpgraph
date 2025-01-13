@@ -4,12 +4,12 @@
  * JPGraph v4.0.3
  */
 
-namespace Amenadiel\JpGraph\Image;
+namespace naas\JpGraph\Image;
 
-use Amenadiel\JpGraph\Text\LanguageConv;
-use Amenadiel\JpGraph\Text\TTF;
-use Amenadiel\JpGraph\Util;
-use Amenadiel\JpGraph\Util\ErrMsgText;
+use naas\JpGraph\Text\LanguageConv;
+use naas\JpGraph\Text\TTF;
+use naas\JpGraph\Util;
+use naas\JpGraph\Util\ErrMsgText;
 
 // load fonts only once, and define a constant for them
 define("GD_FF_FONT0", imageloadfont(dirname(dirname(__FILE__)) . '/fonts/FF_FONT0.gdf'));

@@ -4,9 +4,9 @@
  * JPGraph v4.0.3
  */
 
-namespace Amenadiel\JpGraph\Image;
+namespace naas\JpGraph\Image;
 
-use Amenadiel\JpGraph\Plot;
+use naas\JpGraph\Plot;
 
 /**
  * File:        JPGRAPH_SCATTER.PHP

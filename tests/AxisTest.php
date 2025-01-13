@@ -4,7 +4,7 @@
  * JPGraph - Community Edition
  */
 
-namespace Amenadiel\JpGraph\UnitTest;
+namespace naas\JpGraph\UnitTest;
 
 /**
  * @group ready

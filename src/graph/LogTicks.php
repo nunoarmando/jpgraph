@@ -4,9 +4,9 @@
  * JPGraph v4.0.3
  */
 
-namespace Amenadiel\JpGraph\Graph;
+namespace naas\JpGraph\Graph;
 
-use Amenadiel\JpGraph\Util;
+use naas\JpGraph\Util;
 
 /**
  * @class LogTicks
